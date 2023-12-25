@@ -19,6 +19,7 @@ function fibonacci(num) {
 	}
 }
 // your code here
-console.log(fibonacci());
 
+var num=prompt();
 module.exports = fibonacci;
+console.log(fibonacci(num));
