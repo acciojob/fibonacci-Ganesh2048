@@ -20,6 +20,6 @@ function fibonacci(num) {
 }
 // your code here
 
-let num=prompt()
-//module.exports = fibonacci;
-alert(fibonacci(num));
+//let num=prompt()
+module.exports = fibonacci;
+//alert(fibonacci(num));
